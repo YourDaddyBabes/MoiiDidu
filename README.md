@@ -1,6 +1,6 @@
 # A simple webpage to wish for birthday [ html | css | js ] #
 
-### || [Open Webpage](https://akianonymus.github.io/Happy_Birthday) || ###
+### || [Open Webpage](https://oxynotop.github.io/birthday7/) || ###
 
 ### || Scroll Reveal transition || ###
 
