@@ -1,4 +1,4 @@
 
 
-# || [TAP HERE DIDU](https://YourDaddyBabes.github.io/MoiiDidu/) || ###
+# || [TAP HERE DIDU](https://yourdaddybabes.github.io/MoiiDidu/) || ###
 
